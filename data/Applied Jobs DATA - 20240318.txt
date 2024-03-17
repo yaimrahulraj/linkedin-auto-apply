@@ -1,0 +1,74 @@
+---- Applied Jobs Data ---- created at: 20240318
+---- Number | Job Title | Company | Location | Work Place | Posted Date | Applications | Result 
+
+ Category: python developer, Location: Asia, Applying 102 results jobs.
+
+ Category: python developer, Location: Asia, Applying 101 results jobs.
+
+ Category: python developer, Location: Asia, Applying 37 results jobs.
+
+ Category: python developer, Location: Asia, Applying 60 results jobs.
+
+ Category: python developer, Location: Asia, Applying 60 results jobs.
+1 | Python Developer<span class="job-details-jobs-unified-top-card__job-title-space"></span><div class="inline-block relative job-details-jobs-unified-top-card__job-title-badge-wrapper">
+                    <button class="job-details-jobs-unified-top-card__job-title-badge" aria-label="View verified hiring modal" type="button">
+                      
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+        <svg role="none" aria-hidden="true" class=" " xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="verified-medium">
+
+    <use href="#verified-medium" width="24" height="24"></use>
+</svg>
+
+    </div>
+  
+          </div>
+  
+                    </button>
+                  </div> | Collabera Digital | Taguig, National Capital Region, Philippines | Hybrid |  |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3851712919
+3 | Python/SQL Developer (For Active Pooling)<span class="job-details-jobs-unified-top-card__job-title-space"></span><div class="inline-block relative job-details-jobs-unified-top-card__job-title-badge-wrapper">
+                    <button class="job-details-jobs-unified-top-card__job-title-badge" aria-label="View verified hiring modal" type="button">
+                      
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+        <svg role="none" aria-hidden="true" class=" " xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="verified-medium">
+
+    <use href="#verified-medium" width="24" height="24"></use>
+</svg>
+
+    </div>
+  
+          </div>
+  
+                    </button>
+                  </div> | Shepherd | Manila, National Capital Region, Philippines | Remote |  |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3853987654
+
+ Category: python developer, Location: Bangalore, Applying 4 results jobs.
+1 |  | Oasis Living | India | Remote |  |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3854038348
+2 |  | Applied Graphics Technologies | Bangalore Urban, Karnataka, India | On-site |  |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3842452435
+3 |  | Dubai Jobs, Gulf Jobs, Jobs in Dubai, Qatar, Kuwait - Boyen Haddin &amp; The Giant HR Consultant | Bangalore Urban, Karnataka, India | On-site |  |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3780393189
+
+ Category: python developer, Location: Bangalore, Applying 4 results jobs.
+1 |  | Oasis Living | India | Remote |  |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3854038348
+2 |  | Applied Graphics Technologies | Bangalore Urban, Karnataka, India | On-site |  |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3842452435
+
+ Category: python developer, Location: Bangalore, Applying 4 results jobs.
+
+ Category: mulesoft developer, Location: Bangalore, Applying 450 results jobs.
+
+ Category: python developer, Location: Bangalore, Applying 4 results jobs.
+
+ Category: python developer, Location: Bangalore, Applying 4 results jobs.
+
+ Category: mulesoft developer, Location: Bangalore, Applying 449 results jobs.
+
+ Category: python developer, Location: Bangalore, Applying 4 results jobs.
+
+ Category: python developer, Location: Bangalore, Applying 3 results jobs.
+
+ Category: mulesoft developer, Location: Bangalore, Applying 438 results jobs.
+5 | HubSpot Developer (Operations Hub specialist, Automation,  API integration)<!----> | Awwal Design | India | Remote | Posted on Mar 13, 2024. |  | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3854214160
